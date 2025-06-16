@@ -23,8 +23,8 @@ cd data-analyst-ai
 ```pip install -r requirements.txt```
 
 ### 3. Launch notebook
-```jupyter notebook Data_analyst_ai.ipynb
-```
+```jupyter notebook Data_analyst_ai.ipynb```
+
 📁 Files
 Data_analyst_ai.ipynb – Main notebook
 
