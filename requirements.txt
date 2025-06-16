@@ -1,0 +1,11 @@
+pillow
+python-docx
+gradio
+python-magic
+matplotlib
+numpy
+pandas
+pdfplumber
+pytesseract
+seaborn
+together
